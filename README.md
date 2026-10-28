@@ -10,7 +10,7 @@
 ## Instalacion
 
 Solo debes descargar el archivo .zip.
-Una vez dentro solo debes ejecutar el programa:
+Una vez dentro solo debes ejecutar el programa con:
 
 ```bash
  python .\area.py
